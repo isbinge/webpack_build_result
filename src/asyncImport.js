@@ -1,0 +1,1 @@
+export const counter =  () => import('./utils/test')
